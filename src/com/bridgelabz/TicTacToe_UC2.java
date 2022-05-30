@@ -2,8 +2,6 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class TicTacToe_UC2 {
-
-public class TicTacToeGame {
 	char[] gameBoard = new char[10]; //declare 1d array of char type
 	public char Computerletter;
 	public char Playerletter;
@@ -48,10 +46,10 @@ public class TicTacToeGame {
 
 	public static void main(String[] args) {
 
-		TicTacToe_UC1 ticTacToeMain = new TicTacToe_UC1();
+		TicTacToe_UC2 ticTacToeMain = new TicTacToe_UC2();
 		System.out.println("Welcome to TicTacToe Game");
 		ticTacToeMain.createGameBoard();
 //		ticTacToeMain.selectLetter();
 	}
   }
-}
+
