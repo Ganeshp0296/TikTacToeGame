@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
 import java.util.Scanner;
-
 public class TicTacToe_UC1 {
 		
 //		 declare 1d array of char type
