@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class TicTacToe_UC1 {
 
-		/**
-		 * declare 1d array of char type
-		 */
+		
+//		 declare 1d array of char type
+		
 		static char[] gameBoard = new char[10];
 
 		/**
